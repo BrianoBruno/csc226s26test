@@ -1,1 +1,1 @@
-This is my readme for csc226
+This is my readme for csc226 , updated for cli
